@@ -18,3 +18,4 @@ router.post('/cases/:id/accuse', accuseSuspect);
 router.get('/cases/:id/result', getCaseResult);
 
 export default router;
+

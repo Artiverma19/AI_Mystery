@@ -76,3 +76,4 @@ export default function EvidenceCard({ evidence, onClick }) {
     </div>
   );
 }
+

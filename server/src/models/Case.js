@@ -210,3 +210,4 @@ const CaseSchema = new mongoose.Schema(
 );
 
 export const Case = mongoose.model('Case', CaseSchema);
+

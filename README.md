@@ -119,3 +119,4 @@ npm --prefix client run build
 ## ⚖️ Safety & Boundaries
 
 All cases, events, clues, and suspects in AI Mystery Room are strictly fictional and intended for puzzle entertainment. The system enforces non-graphic descriptions and does not accept or generate real-world accusations.
+

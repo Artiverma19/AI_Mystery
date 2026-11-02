@@ -82,3 +82,4 @@ export default function DifficultySelector({ value, onChange, disabled = false }
     </div>
   );
 }
+

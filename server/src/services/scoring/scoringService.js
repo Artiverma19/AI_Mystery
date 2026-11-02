@@ -11,3 +11,4 @@ export function calculateScore({ difficulty, isCorrect, discoveredEvidenceCount 
   const rawScore = accusationPoints + evidencePoints - hintPenalty;
   return Math.max(0, rawScore);
 }
+

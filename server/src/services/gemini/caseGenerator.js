@@ -89,3 +89,4 @@ Generate the complete mystery case JSON now.`;
     502
   );
 }
+

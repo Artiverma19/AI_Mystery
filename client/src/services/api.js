@@ -72,3 +72,4 @@ export async function getCaseResult(id) {
 export async function checkHealth() {
   return request('/health');
 }
+

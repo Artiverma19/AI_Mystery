@@ -11,3 +11,4 @@ export default function FictionalMediaLabel({ label = 'Fictional AI-Generated Ev
     </div>
   );
 }
+

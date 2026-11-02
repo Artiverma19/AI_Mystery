@@ -93,3 +93,4 @@ export default function AccusationPanel({ suspects = [], onAccuse, isSubmitting 
     </div>
   );
 }
+

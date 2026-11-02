@@ -91,3 +91,4 @@ export const GEMINI_CASE_RESPONSE_SCHEMA = {
   },
   required: ['title', 'briefing', 'setting', 'incident', 'difficulty', 'suspects', 'evidence', 'hints', 'answerKey']
 };
+
