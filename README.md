@@ -1,5 +1,9 @@
 # AI Mystery Room 🔍
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)](https://ai-mysteryroom-t642.onrender.com/)
+
+> **🌐 Live Application:** [https://ai-mysteryroom-t642.onrender.com/](https://ai-mysteryroom-t642.onrender.com/)
+
 AI Mystery Room is a browser-based fictional mystery investigation game built using Spec-Driven Development. Players provide a short fictional scenario, and the server leverages Google Gemini (`@google/genai`) to generate a self-contained, logically sound investigation room complete with suspects, evidence, hints, and an isolated answer key.
 
 ---
